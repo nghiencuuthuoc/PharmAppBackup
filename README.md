@@ -203,4 +203,4 @@ Expected icons:
 
 ## License
 
-Add your preferred license here (e.g., MIT). If you have not chosen yet, create `LICENSE` later and update this section.
+
