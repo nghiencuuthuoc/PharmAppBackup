@@ -25,13 +25,13 @@ Notes:
 Add your screenshot to the repo (example path):
 
 ```text
-PharmAppBackup_v1.3.png
+docs/screenshot.png
 ```
 
 Then reference it here:
 
 ```md
-![PharmApp Backup Tool GUI](./PharmAppBackup_v1.3.png)
+![PharmApp Backup Tool GUI](docs/screenshot.png)
 ```
 
 ---
@@ -203,4 +203,4 @@ Expected icons:
 
 ## License
 
-
+Add your preferred license here (e.g., MIT). If you have not chosen yet, create `LICENSE` later and update this section.
