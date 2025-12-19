@@ -25,13 +25,13 @@ Notes:
 Add your screenshot to the repo (example path):
 
 ```text
-docs/screenshot.png
+PharmAppBackup_v1.3.png
 ```
 
 Then reference it here:
 
 ```md
-![PharmApp Backup Tool GUI](docs/screenshot.png)
+![PharmApp Backup Tool GUI](PharmAppBackup_v1.3.png)
 ```
 
 ---
