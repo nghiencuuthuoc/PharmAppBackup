@@ -31,7 +31,7 @@ PharmAppBackup_v1.3.png
 Then reference it here:
 
 ```md
-![PharmApp Backup Tool GUI](PharmAppBackup_v1.3.png)
+![PharmApp Backup Tool GUI](./PharmAppBackup_v1.3.png)
 ```
 
 ---
